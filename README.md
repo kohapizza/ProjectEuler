@@ -1,3 +1,3 @@
 # ProjectEuler
 
-## I've solved project Euler with JS or Python.
+## I've solved project Euler with JS or Python, Haskell.
