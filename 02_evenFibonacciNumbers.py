@@ -21,4 +21,5 @@ def getFibonacci(n):
     else:
         return getFibonacci(n-1) + getFibonacci(n-2)
 
-print(getSumOfEvenFibonacciNumbers(4000000)) # 4613732
+print(getSumOfEvenFibonacciNumbers(4000000))
+# 4613732
