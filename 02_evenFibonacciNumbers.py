@@ -12,12 +12,8 @@ def getSumOfEvenFibonacciNumbers(limit):
 
 # n番目のFibonacci数を取得する関数
 def getFibonacci(n):
-    if n == 1:
-        return 1
-    elif n == 2:
-        return 2
-    elif n == 3:
-        return 3
+    if n <= 2:
+        return n
     else:
         return getFibonacci(n-1) + getFibonacci(n-2)
 
