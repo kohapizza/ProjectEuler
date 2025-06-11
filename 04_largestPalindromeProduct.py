@@ -14,4 +14,4 @@ def isPalindrome(n):
             return False
     return True
 
-print(getLargestPalindromeProduct())
+print(getLargestPalindromeProduct()) # Output: 906609
